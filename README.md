@@ -1,5 +1,5 @@
 # [AIDAO 2024](https://education.yandex.ru/aidao)
-[Solution](./AIDAO.ipynb), to the selection round case. The task was to develop an algorithm capable of determining whether two given fMRI time-series samples belong to the same individual or not. To see 3D graphics, it's important to run the solution in tools that support [plotly](https://github.com/plotly/plotly.py). 
+[Solution](./AIDAO.ipynb) to the selection round case. The task was to develop an algorithm capable of determining whether two given fMRI time-series samples belong to the same individual or not. To see 3D graphics, it's important to run the solution in tools that support [plotly](https://github.com/plotly/plotly.py). 
 
 MORE DETAILED DESCRIPTION:
 
